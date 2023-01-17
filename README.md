@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhaysharma0901
 - 👀 I’m interested in creating solutions for different problems.
-- 🌱 I’m currently learning web dev.
+
 
 
 <!---
